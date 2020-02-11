@@ -1,0 +1,18 @@
+Eslam Tube
+
+اوامر التثبيت
+apt update && apt upgrade
+
+apt install git
+
+git clone https://github.com/Rajkumrdusad/Tool-X
+
+cd Tool-X 
+
+ls
+
+chmod +x install.aex
+
+./install.aex
+
+Tool-X
